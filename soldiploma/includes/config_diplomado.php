@@ -3,10 +3,10 @@ ini_set("display_errors", "0");
 
 function crear_conexioni(){
 
-	$SERVIDOR =  "192.168.10.90";
+	$SERVIDOR =  "localhost";
 	$NOMBREDB = "emprende";
-	$USUARIODB = "condusef";
-	$PSWDDB = 'MIWcz3NEZDt3Lm1B';
+	$USUARIODB = "root";
+	$PSWDDB = '';
 
 /* -- Conexi�n db -- */
 /*$link = mysql_connect($SERVIDOR,$USUARIODB,$PSWDDB) or	die("error no se pudo conectar a al servidor");
