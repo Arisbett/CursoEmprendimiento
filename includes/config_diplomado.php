@@ -5,10 +5,10 @@ function crear_conexioni(){
 
 
 
-$SERVIDOR =  "192.168.10.90";
+$SERVIDOR =  "localhost";
 $NOMBREDB = "emprende";
-$USUARIODB = "condusef";
-$PSWDDB = 'MIWcz3NEZDt3Lm1B';
+$USUARIODB = "root";
+$PSWDDB = '';
 
 
 
